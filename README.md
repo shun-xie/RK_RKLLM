@@ -1,0 +1,2 @@
+# RK_RKLLM
+介绍在RK3576_RK3588上部署DeepSeek
